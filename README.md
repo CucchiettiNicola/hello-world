@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+i'm here to destroy you... MUHUHAHAHAHHAHAHA
